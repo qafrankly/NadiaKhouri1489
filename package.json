@@ -1,0 +1,20 @@
+{
+  "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
+  "tag": "NEWS",
+  "affiliates": [
+    "WNOW"
+  ],
+  "propTypes": {
+  },
+  "defaultProps": {
+  },
+  "propChoices": {
+    
+  },
+    "FRN_resourceEndpoints": [
+    {
+      "url": "http://wnow.dsys1.worldnow.com/?clienttype=json",
+      "type": "json"
+    }
+  ]
+}
